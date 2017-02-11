@@ -2,13 +2,85 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_723a41d627fc02a3db97a05e6668965f84540b92.jar" />
+    </item>
+    <item
         is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_41a71bbbc546ee77e92f8885d3bab79013a6a2ad/classes.dex" />
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_4903546f98aa08f0308f2f01e68bb23fb2775411/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_d8864cd0cc0b26feced6bea0d93cae77149bcf00.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_9ff52e4594a0154efabdae585f1e5b78249a47b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_43c6da8b095e368da62e4a3e887d3bad754607c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_f0ac2e9c37bc8849c9a3fea1961665a303b29eac/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_a9caeaf208376d3828a18d1f38bc71d50674ed85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_54ad62f6db967b23990f39983760a3555dd7eb92.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_efaf1537e7befdc3a40d5ef9757ccb360bb3140a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -20,49 +92,22 @@
         <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_abd683cd3d4e0556a7a440dd508fdaf43226895e/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lookchin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_882385b86de4d98b8e3d22855a902e702142807d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_774804d9cdef274b70622ebd7c6b2b657ed71189/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/lookchin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_9304758a0acfd17b72a77a73b283d16e9a23fc0d/classes.dex" />
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_9304758a0acfd17b72a77a73b283d16e9a23fc0d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/lookchin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_91731668e73b8af48bd75ce8c0b4932c7be2e763/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_4903546f98aa08f0308f2f01e68bb23fb2775411/classes.dex" />
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/okio-1.8.0_882385b86de4d98b8e3d22855a902e702142807d.jar" />
     </item>
     <item
         is-multidex="true"
@@ -84,12 +129,129 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/lookchin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_d1a6e981ee0d603093df0cf490b1bac62d78f027/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93470912146b18e68a7b56d2e76a40bf9255dd0f">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_af3b5b36a1914b9fb32d54ed40f6d4de289f34d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_0007d38a08bbae8bc34e1b94a9499be966758c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_e3919d6ebe2c2f59b880eeaad935cae8c9cb4963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_41a71bbbc546ee77e92f8885d3bab79013a6a2ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_95fdebb552dcfacaf3383736f6d983b6433b6b06.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_774804d9cdef274b70622ebd7c6b2b657ed71189/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_0cb30dc8b88d15f6fac8f46047d0fae1b4368971.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_91731668e73b8af48bd75ce8c0b4932c7be2e763/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_d5fe78db50151b27fc3541938752a7f7bda6c223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_9ff52e4594a0154efabdae585f1e5b78249a47b4/classes.dex" />
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_9ff52e4594a0154efabdae585f1e5b78249a47b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_59aa28bf533422f0d4e6508034dba5d7322c62fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_8927e5b366f53de52fcb78b6d14ebb743626bee7.jar" />
     </item>
     <item
         is-multidex="true"
@@ -101,40 +263,13 @@
         <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0c2b3c32b377c1add1c031364eddd6806b052457/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_f0ac2e9c37bc8849c9a3fea1961665a303b29eac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_d1a6e981ee0d603093df0cf490b1bac62d78f027/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_5f63d86209fee58375d1eca0c3810ffffd4ad4f9/classes.dex" />
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_6086f20d2699b593009f6748cb11fa21b5cf1aff.jar" />
     </item>
     <item
         is-multidex="true"
@@ -147,12 +282,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="93470912146b18e68a7b56d2e76a40bf9255dd0f">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_af3b5b36a1914b9fb32d54ed40f6d4de289f34d0/classes.dex" />
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_5f63d86209fee58375d1eca0c3810ffffd4ad4f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_882385b86de4d98b8e3d22855a902e702142807d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lookchin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_9304758a0acfd17b72a77a73b283d16e9a23fc0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_7abcc4fa855dbfc626902971a7c50b716878a51d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -173,13 +344,13 @@
         <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_8b0c173fa90cb3845f984f53e03878d391aaf275/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="/Users/lookchin/AndroidStudioProjects/ILoveZappos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_efaf1537e7befdc3a40d5ef9757ccb360bb3140a/classes.dex" />
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/lookchin/Box Sync/ILoveZappos/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_eb243571f1068a2993778f82ea3f6fed3a5e83d4.jar" />
     </item>
     <item
         is-multidex="true"
